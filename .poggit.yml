@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PresentKim/PlantsScanner
+branches:
+  - main
+projects:
+  PlantsScanner:
+    lint:
+      phpstan: false
+...
